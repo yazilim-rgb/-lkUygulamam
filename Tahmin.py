@@ -82,7 +82,7 @@ while a ==1:
                                      _ = os.system('clear')
                                  else:
                                      _ = os.name('clear')
-                                 
+                                 exit()
                                  
                              else:
                                  print(Back.WHITE+Fore.RED)
