@@ -63,7 +63,7 @@ while a ==1:
                                  print(Fore.GREEN + "Uygulamadan Çıkılıyor....")
                                  print("-5..")
                                  sleep(1)
-                                 print(-"4..")
+                                 print("-4..")
                                  sleep(1)
                                  print("-3..")
                                  sleep(1)
