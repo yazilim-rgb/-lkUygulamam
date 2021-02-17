@@ -58,6 +58,8 @@ while a ==1:
                              if rastgele_sayı3 == tahmin3:
                                  print(Fore.RED + "İmdat Bu Adam Siber Dünyanın İçine Girmiş...Nasıl Biliyorsun Lannnnnnnnnnn(!_!)")
                                  print(Fore.YELLOW + "Tebrik Ederim İnsan Oyunu Kazandın!!!!!")
+                                 toplam=deneme1+deneme2+deneme3+deneme4
+                                 print(str(toplam)+" Kez Denedin Brom :)"
                                  print(Fore.CYAN + "Uygulamadan Çıkılıyor....")
                                  sleep(3)
                                  if os.name == 'nt':
