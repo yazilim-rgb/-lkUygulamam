@@ -65,6 +65,14 @@ while a ==1:
         else:
               _ = os.name('clear')
         exit()
+        if os.name == 'nt':
+              _ = os.system('python Tahmin2.py')
+        elif os.name == 'mac':
+              _ = os.system('python Tahmin2.py')
+        elif os.name =='posix':
+              _ = os.system('python Tahmin2.py')
+        else:
+              _ = os.name('python Tahmin2.py')
     else:
         if deneme ==1:
              print(Fore.YELLOW + "Üzülme Kanka Hiç Kolay Değil..") 
